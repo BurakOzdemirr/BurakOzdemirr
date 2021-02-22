@@ -1,0 +1,95 @@
+### Hi there, I'm Burak Özdemir [website] 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and also interested in cybersecurity. I take courses on cybersecurity on platforms like udemy, twitch. I am currently learning C # programming language in the field of programming. I also frequently share my work here. I also regularly write articles on my blog, which I shared below.
+
+<a href="https://github.com/BurakOzdemirr?tab=followers">
+    <img src="https://img.shields.io/github/followers/BurakOzdemirr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+[![Blog](https://img.shields.io/website?label=burakozdemirblog.com&style=for-the-badge&url=https%3A%2F%2Fburakozdemirblog.com)](https://burakozdemirblog.com)
+
+<img  width="50%" align="center" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/master/code.gif?raw=true"/>
+
+## I'm a Developer and Cyber Security enthusiast !!
+
+- 🔭 The programming language I'm learning now: C#
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Learn C # Python and javascript programming languages.
+- ⚡ Fun fact: I love to write code and learn about software.
+
+
+### 📫 Connect with me:
+
+[<img align="left" alt="burakozdemir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BurakOzdemirr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BurakOzdemirr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BurakOzdemirr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BurakOzdemirr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+
+<br />
+
+### 🧠 Languages and Tools:
+
+<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img title="Microsoft Visual Studio" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/master/img/visualstudio.png"></code>
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
+<code><img width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img title="C#" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/img/cSharp.svg"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
+<code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+
+<br />
+<br />
+
+---
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+-  Soon...
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://burakozdemir.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 
+2. 🎉 
+3. 🗣 
+4. 🗣 
+5. 🎉 
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Burak Ozdemir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BurakOzdemirr&show_icons=true&hide_border=true" />
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakOzdemirr&show_icons=true)
+
+</details>
+
+[website]: https://burakozdemir.com
+[blog]: https://burakozdemirblog.com
+[twitter]: https://twitter.com/Moti8321
+[instagram]: https://instagram.com/burak.ozdemir35
+[discord] :  https://discord.com/channels/mrfcollin
+[linkedin]: https://linkedin.com/in/burak-özdemir-531988189
+
+
+
+

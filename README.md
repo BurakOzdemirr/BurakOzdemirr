@@ -8,7 +8,7 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 
 [![Blog](https://img.shields.io/website?label=burakozdemirblog.com&style=for-the-badge&url=https%3A%2F%2Fburakozdemirblog.com)](https://burakozdemirblog.com)
 
-<img  width="50%" align="center" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/master/code.gif?raw=true"/>
+<img  width="50%" align="center" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/code.gif?raw=true"/>
 
 ## I'm a Developer and Cyber Security enthusiast !!
 

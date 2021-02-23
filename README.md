@@ -8,7 +8,7 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 
 [![Blog](https://img.shields.io/website?label=burakozdemirblog.com&style=for-the-badge&url=https%3A%2F%2Fburakozdemirblog.com)](https://burakozdemirblog.com)
 
-<img  width="50%" align="center" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/code.gif?raw=true"/>
+<img  width="50%" align="right" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/code.gif?raw=true"/>
 
 ## I'm a Developer and Cyber Security enthusiast !!
 
@@ -33,12 +33,12 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 ### 🧠 Languages and Tools:
 
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img title="Microsoft Visual Studio" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/master/img/visualstudio.png"></code>
+<code><img title="Microsoft Visual Studio" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/img/visualstudio.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img title="C#" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/img/cSharp.svg"></code>
+<code><img title="C#" width="26" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/img/cSharp.svg"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>

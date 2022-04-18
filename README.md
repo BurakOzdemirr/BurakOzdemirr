@@ -2,11 +2,6 @@
 
 My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and also interested in cybersecurity. I take courses on cybersecurity on platforms like udemy, twitch. I am currently learning C # programming language in the field of programming. I also frequently share my work here. I also regularly write articles on my blog, which I shared below.
 
-<a href="https://github.com/BurakOzdemirr?tab=followers">
-    <img src="https://img.shields.io/github/followers/BurakOzdemirr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-[![Blog](https://img.shields.io/website?label=burakozdemirblog.com&style=for-the-badge&url=https%3A%2F%2Fburakozdemirblog.com)](https://burakozdemirblog.com)
 
 <img  width="50%" align="right" alt="GIF" src="https://github.com/BurakOzdemirr/BurakOzdemirr/blob/main/code.gif?raw=true"/>
 

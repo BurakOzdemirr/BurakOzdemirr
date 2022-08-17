@@ -17,7 +17,7 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 ### 📫 Connect with me:
 
 [<img align="left" alt="burakozdemir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="BurakOzdemirr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BurakOzdemirr | Twitter" width="22px" src="https://github.com/BurakOzdemirr/BurakOzdemirr/img/twitter.png" />][twitter]
 [<img align="left" alt="BurakOzdemirr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BurakOzdemirr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="BurakOzdemirr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -72,7 +72,7 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 
   <img align="left" alt="Burak Ozdemir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BurakOzdemirr&show_icons=true&hide_border=true" />
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakOzdemirr&show_icons=true)
+  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakOzdemirr&show_icons=true&theme=gradient)
 
 </details>
 

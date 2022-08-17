@@ -71,7 +71,6 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Burak Ozdemir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BurakOzdemirr&show_icons=true&hide_border=true" />
 
   ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakOzdemirr&show_icons=true&theme=gradient)
 

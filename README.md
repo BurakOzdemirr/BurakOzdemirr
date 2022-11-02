@@ -10,7 +10,7 @@ My name is Burak Özdemir. I live in İzmir Turkey. I am a web developer and als
 - 🔭 The programming language I'm learning now: C#
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn C# and javascript programming languages.
+- 🥅 2022 Goals: Learn C# and Java programming languages.
 - ⚡ Fun fact: I love to write code and learn about software.
 
 
